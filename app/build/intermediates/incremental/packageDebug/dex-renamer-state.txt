@@ -1,0 +1,7 @@
+#Thu Dec 21 16:34:33 CST 2017
+base.0=F\:\\AndroidStudioProject\\WechatRecorder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_653669d5e8d3815717aaa6e8fa1b98ed6a013a45
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\AndroidStudioProject\\WechatRecorder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_383aa2994119fae1fc81f53878e1a2fa76802b26\\classes.dex
+base.1=F\:\\AndroidStudioProject\\WechatRecorder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_383aa2994119fae1fc81f53878e1a2fa76802b26
+file.0=F\:\\AndroidStudioProject\\WechatRecorder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_653669d5e8d3815717aaa6e8fa1b98ed6a013a45\\classes.dex
